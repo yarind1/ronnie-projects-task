@@ -1,0 +1,14 @@
+C:\Users\yarin\Desktop\UserDataCollector\UserDataCollector\bin\Debug\net8.0\UserDataCollector.exe
+C:\Users\yarin\Desktop\UserDataCollector\UserDataCollector\bin\Debug\net8.0\UserDataCollector.deps.json
+C:\Users\yarin\Desktop\UserDataCollector\UserDataCollector\bin\Debug\net8.0\UserDataCollector.runtimeconfig.json
+C:\Users\yarin\Desktop\UserDataCollector\UserDataCollector\bin\Debug\net8.0\UserDataCollector.dll
+C:\Users\yarin\Desktop\UserDataCollector\UserDataCollector\bin\Debug\net8.0\UserDataCollector.pdb
+C:\Users\yarin\Desktop\UserDataCollector\UserDataCollector\obj\Debug\net8.0\UserDataCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarin\Desktop\UserDataCollector\UserDataCollector\obj\Debug\net8.0\UserDataCollector.AssemblyInfoInputs.cache
+C:\Users\yarin\Desktop\UserDataCollector\UserDataCollector\obj\Debug\net8.0\UserDataCollector.AssemblyInfo.cs
+C:\Users\yarin\Desktop\UserDataCollector\UserDataCollector\obj\Debug\net8.0\UserDataCollector.csproj.CoreCompileInputs.cache
+C:\Users\yarin\Desktop\UserDataCollector\UserDataCollector\obj\Debug\net8.0\UserDataCollector.dll
+C:\Users\yarin\Desktop\UserDataCollector\UserDataCollector\obj\Debug\net8.0\refint\UserDataCollector.dll
+C:\Users\yarin\Desktop\UserDataCollector\UserDataCollector\obj\Debug\net8.0\UserDataCollector.pdb
+C:\Users\yarin\Desktop\UserDataCollector\UserDataCollector\obj\Debug\net8.0\UserDataCollector.genruntimeconfig.cache
+C:\Users\yarin\Desktop\UserDataCollector\UserDataCollector\obj\Debug\net8.0\ref\UserDataCollector.dll
